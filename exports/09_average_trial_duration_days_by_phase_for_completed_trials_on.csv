@@ -1,0 +1,10 @@
+phase,avg_duration_days,trial_count
+"PHASE1, PHASE2",2154.0,26
+PHASE3,2096.0,40
+PHASE2,1588.0,96
+PHASE1,1564.0,80
+EARLY_PHASE1,1378.0,9
+Phase Not Reported,1333.0,164
+PHASE4,1288.0,16
+"PHASE2, PHASE3",1008.0,2
+Phase Not Applicable,953.0,255

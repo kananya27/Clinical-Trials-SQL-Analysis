@@ -1,0 +1,10 @@
+phase,total_trials,stopped_early,pct_stopped_early
+"PHASE1, PHASE2",167,39,23.4
+"PHASE2, PHASE3",32,7,21.9
+PHASE1,296,59,19.9
+PHASE2,648,106,16.4
+EARLY_PHASE1,42,5,11.9
+PHASE3,259,26,10.0
+Phase Not Reported,646,61,9.4
+Phase Not Applicable,842,63,7.5
+PHASE4,68,4,5.9

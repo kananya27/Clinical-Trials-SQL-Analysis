@@ -1,0 +1,62 @@
+phase,sponsor_rank,sponsor_name,agency_class,trials_led
+EARLY_PHASE1,1,Mayo Clinic,OTHER,3
+EARLY_PHASE1,2,Peking Union Medical College Hospital,OTHER,2
+EARLY_PHASE1,2,Shanghai Yunying Medical Technology,INDUSTRY,2
+EARLY_PHASE1,2,Washington University School of Medicine,OTHER,2
+PHASE1,1,National Cancer Institute (NCI),NIH,17
+PHASE1,2,Novartis Pharmaceuticals,INDUSTRY,14
+PHASE1,3,Abramson Cancer Center at Penn Medicine,OTHER,6
+PHASE1,3,Dana-Farber Cancer Institute,OTHER,6
+PHASE1,3,Pfizer,INDUSTRY,6
+"PHASE1, PHASE2",1,National Cancer Institute (NCI),NIH,7
+"PHASE1, PHASE2",2,M.D. Anderson Cancer Center,OTHER,5
+"PHASE1, PHASE2",2,Novartis Pharmaceuticals,INDUSTRY,5
+PHASE2,1,Fudan University,OTHER,27
+PHASE2,2,National Cancer Institute (NCI),NIH,16
+PHASE2,3,M.D. Anderson Cancer Center,OTHER,14
+"PHASE2, PHASE3",1,Shanghai Henlius Biotech,INDUSTRY,2
+"PHASE2, PHASE3",1,Tianjin Medical University,OTHER,2
+"PHASE2, PHASE3",3,AC Camargo Cancer Center,OTHER,1
+"PHASE2, PHASE3",3,Alexandria University,OTHER,1
+"PHASE2, PHASE3",3,Assiut University,OTHER,1
+"PHASE2, PHASE3",3,BeBetter Med Inc,INDUSTRY,1
+"PHASE2, PHASE3",3,"Cancer Institute and Hospital, Chinese Academy of Medical Sciences",OTHER,1
+"PHASE2, PHASE3",3,"Daehwa Pharmaceutical Co., Ltd.",INDUSTRY,1
+"PHASE2, PHASE3",3,Danish Cancer Society,OTHER,1
+"PHASE2, PHASE3",3,Dartmouth-Hitchcock Medical Center,OTHER,1
+"PHASE2, PHASE3",3,ERYtech Pharma,INDUSTRY,1
+"PHASE2, PHASE3",3,Federal University of São Paulo,OTHER,1
+"PHASE2, PHASE3",3,"Han Xu, M.D., Ph.D., FAPCR, Sponsor-Investigator, IRB Chair",INDUSTRY,1
+"PHASE2, PHASE3",3,Hebei Medical University Fourth Hospital,OTHER,1
+"PHASE2, PHASE3",3,Khon Kaen University,OTHER,1
+"PHASE2, PHASE3",3,M.D. Anderson Cancer Center,OTHER,1
+"PHASE2, PHASE3",3,NeuroVita Clinic,OTHER,1
+"PHASE2, PHASE3",3,Norwegian Breast Cancer Group,OTHER,1
+"PHASE2, PHASE3",3,Odense University Hospital,OTHER,1
+"PHASE2, PHASE3",3,Ohio State University Comprehensive Cancer Center,OTHER,1
+"PHASE2, PHASE3",3,Ottawa Heart Institute Research Corporation,OTHER,1
+"PHASE2, PHASE3",3,Peregrine Pharmaceuticals,INDUSTRY,1
+"PHASE2, PHASE3",3,"Qilu Pharmaceutical Co., Ltd.",INDUSTRY,1
+"PHASE2, PHASE3",3,Second Affiliated Hospital of Guangzhou Medical University,OTHER,1
+"PHASE2, PHASE3",3,The Netherlands Cancer Institute,OTHER,1
+"PHASE2, PHASE3",3,Tianjin Medical University Cancer Institute and Hospital,OTHER,1
+"PHASE2, PHASE3",3,University of Rochester,OTHER,1
+"PHASE2, PHASE3",3,"University of Wisconsin, Madison",OTHER,1
+"PHASE2, PHASE3",3,Women's Cancer Study Group GmbH,OTHER,1
+"PHASE2, PHASE3",3,Xijing Hospital,OTHER,1
+PHASE3,1,Fudan University,OTHER,12
+PHASE3,1,Hoffmann-La Roche,INDUSTRY,12
+PHASE3,3,AstraZeneca,INDUSTRY,9
+PHASE4,1,AstraZeneca,INDUSTRY,4
+PHASE4,1,Novartis Pharmaceuticals,INDUSTRY,4
+PHASE4,3,Hoffmann-La Roche,INDUSTRY,3
+PHASE4,3,Institut fuer Frauengesundheit,OTHER,3
+Phase Not Applicable,1,Ohio State University Comprehensive Cancer Center,OTHER,14
+Phase Not Applicable,2,Dana-Farber Cancer Institute,OTHER,12
+Phase Not Applicable,3,M.D. Anderson Cancer Center,OTHER,10
+Phase Not Applicable,3,Mayo Clinic,OTHER,10
+Phase Not Applicable,3,Memorial Sloan Kettering Cancer Center,OTHER,10
+Phase Not Reported,1,Memorial Sloan Kettering Cancer Center,OTHER,16
+Phase Not Reported,2,Pfizer,INDUSTRY,15
+Phase Not Reported,3,Fudan University,OTHER,14
+Phase Not Reported,3,National Cancer Institute (NCI),NIH,14
